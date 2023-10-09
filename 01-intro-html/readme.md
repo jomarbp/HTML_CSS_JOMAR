@@ -416,17 +416,3 @@ Como vemos en el ejemplo anterior, la etiqueta `<img>` está usando dos atributo
 
 [![alt text](./images/img-up.png "subir") volver a la tabla de contenido](#top)
 
-
-<!-- Mini proyecto: hacer una página simple y subirla a Bitballoon -->
-
-<!-- [subir](#top) -->
-
----
-
-**Made with ❤️ by: [Javi Herrera](https://javier-herrera.com)**
-
-*Si te parece interesante este tipo de contenido, puedes agradecerme con un Follow en mis siguientes redes sociales. Lo estimaría un montón.*
-
-[![icon linkedin](../images/icon-linkedin.png)](https://www.linkedin.com/in/japsolo/)
-[![icon instagram](../images/icon-instagram.png)](https://www.instagram.com/thefullstackdevs/)
-[![icon spotify](../images/icon-spotify.png)](https://open.spotify.com/show/3J2dLuBSfzt9VVnEF8q18a)
